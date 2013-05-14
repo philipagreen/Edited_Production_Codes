@@ -38,7 +38,7 @@
   <br>
   <label>Gender</label>
   <select name = "gender" >
-  <option selected = "true" value="0">--Select One Option--</option>
+  <option selected = "true" value="0">--Please Select Option--</option>
   <option value="male">Male</option>
   <option value="female">Female</option>
   </select>
